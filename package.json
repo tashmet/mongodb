@@ -29,7 +29,7 @@
     "chai-as-promised": "^7.1.1",
     "commitizen": "^4.0.3",
     "cz-conventional-changelog": "^3.1.0",
-    "mocha": "^3.4.2",
+    "mocha": "^10.2.0",
     "mongo-mock": "^3.8.1",
     "rimraf": "^3.0.1",
     "sinon": "^7.5.0",
